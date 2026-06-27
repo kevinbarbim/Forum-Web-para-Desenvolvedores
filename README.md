@@ -1,6 +1,6 @@
-# 💬 DevForum :  Fórum Web para Desenvolvedores
+# 💬 DevForum - Fórum Web para Desenvolvedores
 
-Este projeto consiste no desenvolvimento de uma **aplicação web de fórum** voltada para a comunidade de desenvolvedores. A aplicação permite que usuários se cadastrem, façam login, publiquem tópicos, comentem em discussões e disputem posições em um **ranking por pontuação** — tudo em uma interface com visual retrô/pixel art.
+Este projeto consiste no desenvolvimento de uma **aplicação web de fórum** voltada para a comunidade de desenvolvedores. A aplicação permite que usuários se cadastrem, façam login, publiquem tópicos, comentem em discussões e disputem posições em um **ranking por pontuação** - tudo em uma interface com visual retrô/pixel art.
 
 Desenvolvido como **projeto final do Curso de Java do ITA**, o sistema demonstra a construção de uma aplicação web completa utilizando **Java EE puro**, sem frameworks como Spring ou Hibernate.
 
@@ -36,11 +36,11 @@ Navegador  →  JSP (View)  →  Servlet (Controller)  →  DAO (JDBC)  →  MyS
 
 O fórum oferece as seguintes operações para os usuários:
 
-* **Cadastro e Login** — autenticação por e-mail e senha
-* **Tópicos** — criação e listagem de discussões
-* **Comentários** — interação em tópicos existentes
-* **Ranking** — placar de líderes com sistema de pontuação (+10 pts por tópico, +3 pts por comentário)
-* **Sessão de usuário** — área restrita acessível apenas após o login
+* **Cadastro e Login** - autenticação por e-mail e senha
+* **Tópicos** - criação e listagem de discussões
+* **Comentários** - interação em tópicos existentes
+* **Ranking** - placar de líderes com sistema de pontuação (+10 pts por tópico, +3 pts por comentário)
+* **Sessão de usuário** - área restrita acessível apenas após o login
 
 ### Entidades gerenciadas
 
@@ -84,7 +84,7 @@ Competências técnicas valorizadas no mercado de desenvolvimento que este proje
 
 * **Views:** JSP (Jakarta Server Pages)
 * **Estilização:** CSS3 (layout responsivo, tipografia fluida)
-* **Estética:** Pixel art / retrô — fontes *Press Start 2P* e *VT323*
+* **Estética:** Pixel art / retrô - fontes *Press Start 2P* e *VT323*
 
 ### 🧪 Testes & Qualidade
 
