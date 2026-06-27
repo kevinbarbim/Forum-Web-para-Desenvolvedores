@@ -1,4 +1,4 @@
-# 💬 DevForum - Fórum Web para Desenvolvedores
+# DevForum - Fórum Web para Desenvolvedores
 
 Este projeto consiste no desenvolvimento de uma **aplicação web de fórum** voltada para a comunidade de desenvolvedores. A aplicação permite que usuários se cadastrem, façam login, publiquem tópicos, comentem em discussões e disputem posições em um **ranking por pontuação** tudo em uma interface com visual retrô/pixel art.
 
