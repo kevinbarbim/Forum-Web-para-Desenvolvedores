@@ -1,6 +1,6 @@
 # 💬 DevForum - Fórum Web para Desenvolvedores
 
-Este projeto consiste no desenvolvimento de uma **aplicação web de fórum** voltada para a comunidade de desenvolvedores. A aplicação permite que usuários se cadastrem, façam login, publiquem tópicos, comentem em discussões e disputem posições em um **ranking por pontuação** - tudo em uma interface com visual retrô/pixel art.
+Este projeto consiste no desenvolvimento de uma **aplicação web de fórum** voltada para a comunidade de desenvolvedores. A aplicação permite que usuários se cadastrem, façam login, publiquem tópicos, comentem em discussões e disputem posições em um **ranking por pontuação** tudo em uma interface com visual retrô/pixel art.
 
 Desenvolvido como **projeto final do Curso de Java do ITA**, o sistema demonstra a construção de uma aplicação web completa utilizando **Java EE puro**, sem frameworks como Spring ou Hibernate.
 
