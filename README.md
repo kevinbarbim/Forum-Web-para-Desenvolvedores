@@ -171,8 +171,5 @@ CREATE TABLE comentario (
 
 > Credenciais do banco em `src/java/JDBC/ConnectionFactory.java` (padrão: `root` / senha vazia).
 
----
-
-## 📄 Licença
 
 MIT
